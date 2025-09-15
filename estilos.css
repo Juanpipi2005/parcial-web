@@ -1,0 +1,35 @@
+#container{
+display: flex;
+flex-direction: column;
+min-height: 100vh;
+background:linear-gradient(135deg, #181818 60%, #e10600 100%);
+align-items: center;
+}
+#input_pais{
+width:
+70%;
+height: 30px;
+border-radius: 10px;
+font-size: x-large;
+padding-left: 15px;
+font-family: 'Courier New', Courier, monospace;
+}
+#button_search{
+width: 40%;
+height: 30px;
+border-radius: 8px;
+margin-top: 15px;
+font-size: larger;
+}
+
+#country-infomation{
+width: 80%;
+height: 300px;
+background-color: floralwhite;
+margin-top: 20px;
+display: flex;
+flex-direction: column;
+align-items: center;
+border-radius: 9px;
+}
+
