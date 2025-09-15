@@ -1,5 +1,5 @@
 const obtenerValorInput = () => {
-    let inputTexto = document.getElementById("input_pais");
+    let inputTexto = document.getElementById("input_piloto");
     let valor = inputTexto.value;
     peticionApi(valor);
 }
